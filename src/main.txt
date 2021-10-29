@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 hisonu
 hi
 hello
+=======
+jhfgh
+>>>>>>> 70cbd90 (second co)
